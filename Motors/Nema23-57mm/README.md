@@ -7,5 +7,4 @@ Motor part No: BH57SH76-1006A UNIPOLAR
 You can purchage the motor [here](http://www.bholanath.in/nema23-57mm-stepper-motors.html)
 
 
-ToDo:
-
+X axis : BH57SH56-1006A-9KGCM.pdf
